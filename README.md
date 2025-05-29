@@ -51,11 +51,11 @@ We perform several key analyses:
 
 ## 📸 Visualizations
 
-1. ![Average Price by Location](images/Price_vs_Sqft.png)
-2. ![Price vs Square Footage](images/Listings_overtime.png)
-3. ![Price by Bedroom Boxplot](images/price_distribution_by_furnishing_status.png)
-4. ![Listings Over Time](images/Distribution_of_price_by_number_of_bedrooms.png)
-5. ![Furnishing Impact on Price](images/Average_price_by_location.png)
+1. ![Price vs Square Footage](images/Price_vs_Sqft.png)
+2. ![Listings Over Time](images/Listings_overtime.png)
+3. ![Furnishing Impact on Price](images/Price_distribution_by_furnishing_status.png)
+4. ![Price by Bedroom Boxplot](images/Distribution_of_price_by_number_of_bedrooms.png)
+5. ![Average Price by Location](images/Average_property_price_by_location.png)
 
 ---
 
