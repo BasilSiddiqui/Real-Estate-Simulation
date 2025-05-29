@@ -51,7 +51,7 @@ We perform several key analyses:
 
 ## 📸 Visualizations
 
-1. ![Average Price by Location](Price_vs_Sqft.png)
+1. ![Average Price by Location](images/Price_vs_Sqft.png)
 2. ![Price vs Square Footage](images/price_vs_sqft.png)
 3. ![Price by Bedroom Boxplot](images/price_by_bedroom.png)
 4. ![Listings Over Time](images/listing_trend.png)
